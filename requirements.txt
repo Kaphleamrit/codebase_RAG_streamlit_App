@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+sentence-transformers
+scikit-learn
+langchain-pinecone
+langchain-embeddings
+langchain-community-embeddings
+pinecone-client
+GitPython
+openai
